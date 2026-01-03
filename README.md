@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhaskar</h1>
-<h3 align="center">A passionate machine learning enthusiast, web developer & competitive programmer from India</h3>
+<h3 align="center">A passionate data science passionate & competitive programmer from India</h3>
 
 - 📫 How to reach me **sahilbhaskar40@gmail.com**
 
